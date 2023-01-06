@@ -1,0 +1,52 @@
+@media(max-width: 1400px){
+
+}
+
+/* for desktop */
+
+@media(max-width: 1200px){
+
+}
+
+/* for laptop */
+
+@media(max-width: 992px){
+
+}
+
+/* for Tablet */
+@media(max-width: 768px){
+
+}
+
+/* for large phone */
+
+
+@media(max-width: 576px){
+.sec0{
+    width: 100%;
+}
+.sec0 h1{
+    font-size: 25px;
+}
+
+.sec0 p{
+    font-size: 19px;
+}
+
+.sec1{
+    width: 100%;
+}
+.sec2 h2{
+    padding-bottom: 20px;
+}
+
+.sec2 .divider::after{
+    left: 46%;
+}
+
+
+
+
+
+/* for small phone */
